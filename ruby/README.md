@@ -6,7 +6,7 @@ $`bundle install`
 
 ### Minitest
 
-$`bundle exec ruby gilded_rose_test.rb`
+$`bundle exec ruby gilded_rose_tests.rb`
 
 ### Rspec
 
